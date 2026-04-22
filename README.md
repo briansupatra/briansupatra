@@ -6,7 +6,7 @@
 
 ## 👨‍🏫 About Me
 
-I'm a passionate coding teacher who loves helping students discover the world of programming. I teach fundamental programming concepts in a fun, approachable way—starting from **Scratch** all the way to **JavaScript** and **Python**.
+I'm a passionate coding teacher who loves helping students discover the world of programming. I teach fundamental programming concepts in a fun, approachable way starting from **Scratch** all the way to **JavaScript** and **Python**.
 
 My students range from kids taking their first steps in coding to high schoolers building real projects. I focus on making complex ideas simple, practical, and engaging.
 
@@ -14,7 +14,7 @@ My students range from kids taking their first steps in coding to high schoolers
 
 ## 💼 Experience
 
-* 🖥️ Technical Support (IT Staff) at Apple Developer Academy
+* 🖥️ Technical Support (IT Staff) at Apple Developer Academy BSD
   Supported technical operations and helped maintain a smooth learning environment for developers and students.
 
 ---
